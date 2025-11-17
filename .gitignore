@@ -3,3 +3,9 @@ node_modules/
 *.log
 dist/
 build/
+.next/
+.vercel/
+.next/
+.vercel/
+.next/
+.vercel/
